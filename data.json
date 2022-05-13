@@ -1,0 +1,116 @@
+[
+  {
+    "suggestion": {
+      "Term": 0,
+      "URL": "https://www.google.com/"
+    },
+    "collection": {
+      "ID": "627e80ce2de4228d2def64a2",
+      "Title": 0,
+      "URL": "https://www.google.com/"
+    },
+    "product": {
+      "ID": "627e80ce130250750bcad194",
+      "Title": 0,
+      "URL": "https://www.google.com/",
+      "Brand": "ISOSPHERE",
+      "Price": 1552.8407,
+      "Image": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "suggestion": {
+      "Term": 1,
+      "URL": "https://www.google.com/"
+    },
+    "collection": {
+      "ID": "627e80ce800e41e241213eba",
+      "Title": 1,
+      "URL": "https://www.google.com/"
+    },
+    "product": {
+      "ID": "627e80cef897f59accdc1d26",
+      "Title": 1,
+      "URL": "https://www.google.com/",
+      "Brand": "ISOSTREAM",
+      "Price": 244.8941,
+      "Image": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "suggestion": {
+      "Term": 2,
+      "URL": "https://www.google.com/"
+    },
+    "collection": {
+      "ID": "627e80ce164eac12171e565d",
+      "Title": 2,
+      "URL": "https://www.google.com/"
+    },
+    "product": {
+      "ID": "627e80cec32ab70369103a0d",
+      "Title": 2,
+      "URL": "https://www.google.com/",
+      "Brand": "INSURITY",
+      "Price": 1551.4641,
+      "Image": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "suggestion": {
+      "Term": 3,
+      "URL": "https://www.google.com/"
+    },
+    "collection": {
+      "ID": "627e80ce516eb01bac87321c",
+      "Title": 3,
+      "URL": "https://www.google.com/"
+    },
+    "product": {
+      "ID": "627e80ce3c208d593ca9ea4f",
+      "Title": 3,
+      "URL": "https://www.google.com/",
+      "Brand": "SUNCLIPSE",
+      "Price": 255.8742,
+      "Image": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "suggestion": {
+      "Term": 4,
+      "URL": "https://www.google.com/"
+    },
+    "collection": {
+      "ID": "627e80ce9afe2c4665e57f80",
+      "Title": 4,
+      "URL": "https://www.google.com/"
+    },
+    "product": {
+      "ID": "627e80ce172f484fa70ddb1f",
+      "Title": 4,
+      "URL": "https://www.google.com/",
+      "Brand": "CINASTER",
+      "Price": 1570.0499,
+      "Image": "http://placehold.it/32x32"
+    }
+  },
+  {
+    "suggestion": {
+      "Term": 5,
+      "URL": "https://www.google.com/"
+    },
+    "collection": {
+      "ID": "627e80ce70f7f52c3848ef99",
+      "Title": 5,
+      "URL": "https://www.google.com/"
+    },
+    "product": {
+      "ID": "627e80ce916c3a843d84dddc",
+      "Title": 5,
+      "URL": "https://www.google.com/",
+      "Brand": "ZAJ",
+      "Price": 1222.4882,
+      "Image": "http://placehold.it/32x32"
+    }
+  }
+]
